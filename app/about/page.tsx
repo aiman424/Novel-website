@@ -35,9 +35,9 @@ const About = () => {
       />
      <div className='content'>
       <h1>Ab e hayat</h1>
-      <p>This is the second part to Umera Ahmed's most famous book, Peer-e-Kamil.
+      <p>This is the second part to Umera Ahmed&apos;s most famous book, Peer-e-Kamil.
       Are you excited to know whether they lived happily ever after or not?
-      Get ready to read more about Salar and Imama's life.</p>
+      Get ready to read more about Salar and Imama&apos;s life.</p>
      </div>
   </div>
 
@@ -52,7 +52,7 @@ const About = () => {
       <div className='content-3'>
         <h1>Haalim</h1>
         <p>Taliyah Murad, a 28 year old scam artist living in Kaula Lampur, Malaysia.
-         She's an ace at what she does and has big dreams, literally.</p>
+         She&apos;s an ace at what she does and has big dreams, literally.</p>
       </div>
    </div>
 

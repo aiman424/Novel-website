@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-[#ddaa99] text-[#574157] py-6 text-center">
     <div className="container mx-auto px-4">
-      <p className="font-[Rye] text-[24px] text-[#974257]">Aiman's Novel House</p>
+      <p className="font-[Rye] text-[24px] text-[#974257]">Aiman&apos;s Novel House</p>
       
       <p className="text-[16px] mt-2">
         A place for book lovers, storytellers, and all those who find joy in the world of novels.
@@ -27,7 +27,7 @@ const Footer = () => {
         </a>
       </div>
 
-      <p className="mt-4 text-[13px]">&copy; {new Date().getFullYear()} Aiman's Novel House. All rights reserved.</p>
+      <p className="mt-4 text-[13px]">&copy; {new Date().getFullYear()} Aiman&apos;s Novel House. All rights reserved.</p>
     </div>
   </footer>
   )

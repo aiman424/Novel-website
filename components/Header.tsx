@@ -3,7 +3,7 @@ import Link from 'next/link';
 const Header = () => {
   return (
     <div className='w-[1380px] h-[90px] bg-[#ddaa99]'>
-      <h1 className='p-6 text-[#974257] font-[Rye] text-[30px] h-[50px] w-[400px]'>Aiman's Novel House</h1>
+      <h1 className='p-6 text-[#974257] font-[Rye] text-[30px] h-[50px] w-[400px]'>Aiman&apos;s Novel House</h1>
 
       <ul className='flex justify-center items-center pl-[200px] gap-[40px] font-[Rye] text-[20px]'>
 
